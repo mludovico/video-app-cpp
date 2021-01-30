@@ -1,0 +1,1 @@
+#define exitWithError(exitCode, message) {printf("%s\n", message); return exitCode;}
